@@ -4,4 +4,4 @@ This is a dedicated wallet intended for SHIB holdings .
                                                            
 *all other ERC-20 token donations will be attributed to <Project/Shib-Orph>
 
- ~all ETH received will be used for Gwei \\//
+ ~all ETH received will be used for Gwei   --LLAP \\//
